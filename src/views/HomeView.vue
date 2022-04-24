@@ -1,18 +1,47 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>Homepage</h1>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing 
+      elit. Nulla rerum debitis, quae fugiat aperiam 
+      unde voluptate porro aspernatur enim dolore 
+      exercitationem inventore fugit tenetur a quaerat 
+      libero et ipsa, quod voluptas. Dolores, laboriosam 
+      cum tenetur modi corporis delectus quis voluptates, 
+      sit, fuga facilis non atque. Voluptates animi 
+      inventore illum, totam fugit alias illo beatae 
+      nulla vitae officia enim iure laboriosam architecto 
+      itaque dolore ab porro unde. Cumque porro autem 
+      excepturi quod inventore praesentium libero reprehenderit? 
+      Laboriosam qui magnam nemo numquam aspernatur 
+      hic unde quas dolor, odio, optio est reiciendis 
+      cumque ducimus repellendus? Quaerat cum quidem quia 
+      alias dolorem culpa architecto.
+    </p>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing 
+      elit. Nulla rerum debitis, quae fugiat aperiam 
+      unde voluptate porro aspernatur enim dolore 
+      exercitationem inventore fugit tenetur a quaerat 
+      libero et ipsa, quod voluptas. Dolores, laboriosam 
+      cum tenetur modi corporis delectus quis voluptates, 
+      sit, fuga facilis non atque. Voluptates animi 
+      inventore illum, totam fugit alias illo beatae 
+      nulla vitae officia enim iure laboriosam architecto 
+      itaque dolore ab porro unde. Cumque porro autem 
+      excepturi quod inventore praesentium libero reprehenderit? 
+      Laboriosam qui magnam nemo numquam aspernatur 
+      hic unde quas dolor, odio, optio est reiciendis 
+      cumque ducimus repellendus? Quaerat cum quidem quia 
+      alias dolorem culpa architecto.
+    </p>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: 'HomeView',
-  components: {
-    HelloWorld
-  }
+  components: {}
 }
 </script>
